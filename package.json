@@ -6,12 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MattLagger/Valida-Cpf.git"
-  },
+  "repository": "git+https://github.com/MattLagger/Valida-Cpf.git",
   "keywords": [],
-  "author": "",
+  "author": "wendreo.teixeira <wendreo.pvh@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MattLagger/Valida-Cpf/issues"
