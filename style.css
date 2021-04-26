@@ -1,0 +1,14 @@
+body {
+  background-color: #013243;
+}
+
+.signup-form {
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 12px;
+}
+
+.signup-form button {
+  margin-top: 12px;
+  background-color: #013243 !important;
+}
